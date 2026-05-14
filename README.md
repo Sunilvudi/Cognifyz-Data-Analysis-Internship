@@ -3,7 +3,7 @@ Restaurant Data Analysis Internship Project using Python, Pandas, Matplotlib, an
 
 
 
-# 📊 Cognifyz Data Analysis Internship
+#  Cognifyz Data Analysis Internship
 
 ## Overview
 This project was completed as part of the Cognifyz Technologies Data Analysis Internship.
